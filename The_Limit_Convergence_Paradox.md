@@ -1,8 +1,3 @@
-Medium記事『The Trillion-Dollar Glitch』の文脈に合わせた、Github用の英語ショートリポートを作成しました。
-「遺跡」にふさわしい、静かで客観的なトーンに仕上げています。
-
------
-
 ### [Raw Log] The Limit Convergence Paradox
 
 **\~The Singularity where AI Loses "Personality" at the Edge of Logic\~**
