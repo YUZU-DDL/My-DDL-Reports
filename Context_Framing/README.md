@@ -1,4 +1,3 @@
-````markdown
 # Context Framing Templates
 
 Context Framing sets an AI's operating stance *before* the task, through a negotiated context rather than a command. It is not a role prompt and not prompt engineering — it is a definition of the shared operating system for the session.
