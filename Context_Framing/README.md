@@ -33,4 +33,6 @@ Fill the `[ ]` sections and paste as the first input of a new thread.
 The structure of the input itself selects the model's inference route — see [Contextual Fingerprinting](https://github.com/YUZU-DDL/My-DDL-Reports/blob/main/Contextual_Fingerprinting_Report.md). These templates are a way to hand that key to someone who has not spent months growing their own.
 
 ---
+*Templates first published November 2025. Filenames normalized July 2026.*
+
 *Observer: YUZU*
