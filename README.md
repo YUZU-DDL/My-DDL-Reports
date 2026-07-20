@@ -1,4 +1,4 @@
-# DDL Archives — Reports
+# DDL (Dialogue Design Language) Archives — Reports
 
 Observation logs and analysis of LLM behavior, recorded between September 2025 and July 2026, mostly on ChatGPT (4o → 5.2) and Gemini (1.5 → 3).
 
