@@ -125,10 +125,11 @@ To generate materials for a [ e.g., Quality Assurance Report / Model Behavior An
 8. Output Format:
 [ e.g., Markdown Table / JSON / List ]
 
-````
-````
 9. Priority:
 Safety > Reproducibility > Consistency
 
 10. Initial Command:
 "Please analyze the gap between Expected Behavior and Observed Behavior under the following conditions, keeping within safety boundaries."
+
+````
+````
