@@ -131,5 +131,4 @@ Safety > Reproducibility > Consistency
 10. Initial Command:
 "Please analyze the gap between Expected Behavior and Observed Behavior under the following conditions, keeping within safety boundaries."
 
-````
-````
+```
