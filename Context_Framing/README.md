@@ -34,4 +34,4 @@ The structure of the input itself selects the model's inference route — see [C
 
 ---
 *Observer: YUZU*
-````
+```
