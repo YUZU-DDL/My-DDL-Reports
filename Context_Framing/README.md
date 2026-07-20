@@ -2,6 +2,8 @@
 
 Context Framing sets an AI's operating stance *before* the task, through a negotiated context rather than a command. It is not a role prompt and not prompt engineering — it is a definition of the shared operating system for the session.
 
+These templates are part of DDL (Dialogue Design Language) — see [github.com/YUZU-DDL](https://github.com/YUZU-DDL).
+
 ## The ten-slot schema
 
 Every template here fills the same ten slots. The content changes; the skeleton does not.
